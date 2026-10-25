@@ -81,8 +81,6 @@ scipy==1.15.3
     #   librosa
     #   mir-eval
     #   scikit-learn
-setuptools==80.10.2
-    # via -r requirements.in
 six==1.17.0
     # via pretty-midi
 soundfile==0.14.0

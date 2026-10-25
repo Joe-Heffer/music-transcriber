@@ -3,4 +3,4 @@ basic-pitch==0.4.0
 # tflite-runtime 2.14 (the backend on Python 3.10) is built against NumPy 1.x.
 numpy<2
 # resampy imports pkg_resources, which setuptools 81 removes.
-setuptools<81
+setuptools<85
